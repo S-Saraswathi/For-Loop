@@ -25,5 +25,9 @@ Loops are used to make the program less repetitive and compact by iterating a pa
   //code executed inside loop<br />
   }while(condition);_**
 ## ALGORITHM
+## EXPLANATION
+## OUTPUT<br />
+![image](https://github.com/S-Saraswathi/Loops/assets/139524048/f031e4aa-77f8-494b-b4ff-fb7d1cda4d60)
+
 
   
